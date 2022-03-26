@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{A1B38629-153C-9D11-95C8-377307D79906}</ProjectGuid>
+    <ProjectGuid>{2AADAD1B-4EC1-A51B-F264-48DEDFF6EB21}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Unity.RenderPipelines.Universal.Editor</AssemblyName>
@@ -56,209 +56,209 @@
     <Analyzer Include="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\Extensions\Microsoft\Visual Studio Tools for Unity\Analyzers\Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\AssetVersion.cs" />
-    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\VFXGraph\VFXURPSubOutput.cs" />
-    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\AnimationClipUpgrader_Types.cs" />
     <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\Converter\InitializeConverterContext.cs" />
-    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\2D\FreeformPathPresets.cs" />
-    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\VFXGraph\VFXAbstractParticleURPLitOutput.cs" />
-    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\ShaderGraph\UniversalFields.cs" />
-    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\UniversalRenderPipelineAsset\UniversalRenderPipelineAssetUI.Drawers.cs" />
-    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\2D\ShapeEditor\Shapes\Polygon.cs" />
-    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\2D\ShadowCaster2DEditor.cs" />
-    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\RendererFeatures\ScreenSpaceAmbientOcclusionEditor.cs" />
-    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\VFXGraph\VFXShaderGraphGUI.cs" />
-    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\2D\ShapeEditor\GUIFramework\Control.cs" />
-    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\Overrides\LiftGammaGainEditor.cs" />
-    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\ShaderGraph\Targets\UniversalTarget.cs" />
-    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\Decal\DisplacableRectHandles.cs" />
-    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\PostProcessDataEditor.cs" />
-    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\VFXGraph\VFXURPLitPlanarPrimitiveOutput.cs" />
-    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\ShaderGraph\Targets\UniversalUnlitSubTarget.cs" />
-    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\AssetPostProcessors\SketchupMaterialDescriptionPostprocessor.cs" />
     <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\ShaderGUI\Shaders\ParticlesSimpleLitShader.cs" />
-    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\Camera\UniversalRenderPipelineCameraUI.Skin.cs" />
-    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\GlobalSettings\UniversalGlobalSettingsCreator.cs" />
-    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\ShaderGUI\Shaders\UnlitShader.cs" />
-    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\Lighting\UniversalRenderPipelineLightUI.Drawers.cs" />
-    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\2D\Converter\UpgradeURP2DAssetsContainer.cs" />
-    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\RendererFeatures\DecalRendererFeatureEditor.cs" />
     <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\Camera\UniversalRenderPipelineCameraUI.Output.Drawers.cs" />
-    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\UniversalRendererDataEditor.cs" />
     <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\2D\CompositeShadowCaster2DEditor.cs" />
-    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\TrackballUIDrawer.cs" />
-    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\Converter\AnimationClipConverter.cs" />
-    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\2D\ShapeEditor\EditablePath\Snapping.cs" />
-    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\UniversalAdditionalCameraDataEditor.cs" />
     <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\Converter\ConversionIndexers.cs" />
-    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\VFXGraph\VFXURPLitQuadStripOutput.cs" />
     <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\Camera\UniversalRenderPipelineCameraEditor.cs" />
-    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\2D\ShapeEditor\Selection\PointRectSelector.cs" />
-    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\AssetPostProcessors\ThreeDSMaterialDescriptionPostprocessor.cs" />
-    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\2D\ShaderGraph\Targets\UniversalSpriteLitSubTarget.cs" />
     <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\2D\ShapeEditor\EditorTool\PathEditorToolExtensions.cs" />
-    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\GlobalSettings\UniversalGlobalSettingsEditor.cs" />
-    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\GlobalSettings\SerializedUniversalRenderPipelineGlobalSettings.cs" />
-    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\AssetPostProcessors\MaterialPostprocessor.cs" />
-    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\ShaderUtils.cs" />
     <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\2D\ShapeEditor\View\Drawer.cs" />
     <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\AssetPostProcessors\FBXArnoldSurfaceMaterialDescriptionPreprocessor.cs" />
-    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\UniversalRenderPipelineAsset\SerializedUniversalRenderPipelineAsset.cs" />
     <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\VFXGraph\VFXURPBinder.cs" />
     <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\2D\ShapeEditor\View\IDrawer.cs" />
     <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\2D\ShapeEditor\EditablePath\EditablePathController.cs" />
-    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\2D\ShapeEditor\EditablePath\EditablePath.cs" />
-    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\2D\ShapeEditor\EditablePath\EditablePathUtility.cs" />
-    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\Overrides\MotionBlurEditor.cs" />
-    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\ShaderGUI\Shaders\BakedLitShader.cs" />
-    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\Overrides\ChannelMixerEditor.cs" />
-    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\Decal\DecalShaderGraphGUI.cs" />
-    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\2D\ShapeEditor\View\CreatePointAction.cs" />
     <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\Lighting\UniversalRenderPipelineLightUI.Skin.cs" />
     <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\RenderStateDataEditor.cs" />
-    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\2D\ShapeEditor\EditablePath\IEditablePathController.cs" />
-    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\2D\PixelPerfectCameraEditor.cs" />
-    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\2D\ShapeEditor\EditorTool\GenericScriptablePathInspector.cs" />
-    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\2D\ShapeEditor\GUIFramework\ClickAction.cs" />
     <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\2D\ShapeEditor\EditablePath\IEditablePath.cs" />
-    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\AssetPostProcessors\PhysicalMaterial3DsMaxPreprocessor.cs" />
-    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\2D\ShapeEditor\GUIFramework\LayoutData.cs" />
-    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\ShaderGUI\ShadingModels\LitGUI.cs" />
     <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\UniversalRenderPipelineAsset\UniversalRenderPipelineAssetUI.Skin.cs" />
-    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\Camera\UniversalRenderPipelineCameraUI.Rendering.Skin.cs" />
-    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\2D\ShapeEditor\Shapes\IShape.cs" />
     <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\ShaderGraph\Targets\UniversalSubTarget.cs" />
-    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\2D\ShapeEditor\EditablePath\MultipleEditablePathController.cs" />
-    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\2D\ShapeEditor\GUIFramework\DefaultControl.cs" />
-    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\2D\Light2DEditor.cs" />
-    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\2D\ShapeEditor\EditorTool\ScriptablePath.cs" />
-    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\2D\ShapeEditor\Selection\ISelectable.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\Camera\UniversalRenderPipelineCameraUI.Rendering.Skin.cs" />
     <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\EditorUtils.cs" />
     <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\Camera\UniversalRenderPipelineCameraUI.Environment.Skin.cs" />
     <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\2D\Converter\BuiltInToURP2DConverterContainer.cs" />
     <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\2D\ShapeEditor\EditablePath\EditablePathExtensions.cs" />
     <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\Overrides\ColorLookupEditor.cs" />
     <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\Overrides\DepthOfFieldEditor.cs" />
-    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\ShaderGraph\Targets\UniversalDecalSubTarget.cs" />
-    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\Decal\CreateDecalProjector.cs" />
     <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\RendererFeatures\NewRendererFeatureDropdownItem.cs" />
-    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\2D\ShadowCaster2DShapeTool.cs" />
-    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\ShaderGUI\ShadingModels\SimpleLitGUI.cs" />
-    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\UniversalRenderPipelineAssetEditor.cs" />
-    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\UniversalAnalytics.cs" />
-    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\Overrides\ShadowsMidtonesHighlightsEditor.cs" />
     <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\2D\ShapeEditor\Selection\ISelection.cs" />
     <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\Converter\Converters\RenderSettingsConverter.cs" />
-    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\2D\ShapeEditor\Shapes\Spline.cs" />
-    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\2D\ShaderGraph\AssetCallbacks\CreateSpriteLitShaderGraph.cs" />
-    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\UniversalRenderPipelineMaterialUpgrader.cs" />
-    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\ShaderGraph\Includes\DecalMeshBiasTypeEnum.cs" />
-    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\2D\SortingLayerDropDown.cs" />
-    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\ShaderGraph\UniversalMetadata.cs" />
-    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\2D\ShapeEditor\EditorTool\GenericScriptablePath.cs" />
-    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\SavedParameter.cs" />
-    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\ScriptableRendererFeatureEditor.cs" />
     <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\2D\Converter\URP2DConverterUtility.cs" />
-    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\Overrides\BloomEditor.cs" />
-    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\GlobalSettings\UniversalGlobalSettingsWindow.cs" />
     <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\2D\ShapeEditor\GUIFramework\GUIAction.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\GlobalSettings\UniversalGlobalSettingsWindow.cs" />
     <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\2D\ShapeEditor\EditorTool\PathComponentEditor.cs" />
-    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\ShaderGraph\AssetCallbacks\CreateLitShaderGraph.cs" />
-    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\UpgradeUtility.cs" />
-    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\2D\ShapeEditor\EditorTool\ScriptablePathInspector.cs" />
-    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\2D\Renderer2DAnalytics.cs" />
-    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\2D\Converter\ParametricToFreeformLightUpgrader.cs" />
-    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\2D\Light2DEditorUtility.cs" />
-    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\2D\ShapeEditor\EditablePath\BezierUtility.cs" />
     <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\ShaderGUI\BaseShaderGUI.cs" />
-    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\Decal\CreateDecalShaderGraph.cs" />
-    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\ShaderPreprocessor.cs" />
-    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\Decal\DecalProjectorEditor.Skin.cs" />
-    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\ShaderGraph\UniversalProperties.cs" />
-    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\Camera\UniversalRenderPipelineCameraUI.Drawers.cs" />
     <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\2D\ShapeEditor\Shapes\ShapeExtensions.cs" />
-    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\Converter\RenderPipelineConverterContainer.cs" />
-    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\2D\ShapeEditor\GUIFramework\GenericControl.cs" />
-    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\2D\ShapeEditor\EditablePath\ControlPoint.cs" />
-    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\UpgradeCommon.cs" />
-    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\Camera\UniversalRenderPipelineCameraUI.Output.Skin.cs" />
-    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\2D\ShapeEditor\View\EditablePathView.cs" />
     <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\AssetPostProcessors\AutodeskInteractiveMaterialImport.cs" />
-    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\Converter\ReadonlyMaterialConverter.cs" />
     <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\2D\ShapeEditor\EditorTool\PathEditorTool.cs" />
     <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\AssetPostProcessors\FBXMaterialDescriptionPreprocessor.cs" />
-    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\Camera\UniversalRenderPipelineCameraUI.PhysicalCamera.Drawers.cs" />
-    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\2D\ShaderGraph\AssetCallbacks\CreateSpriteCustomLitShaderGraph.cs" />
-    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\RendererFeatures\RenderObjectsPassFeatureEditor.cs" />
     <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\VFXGraph\VFXURPLitMeshOutput.cs" />
-    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\2D\ShapeEditor\GUIFramework\IGUIState.cs" />
-    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\Lighting\UniversalRenderPipelineLightUI.PresetInspector.cs" />
     <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\UniversalRenderPipelineLightEditor.cs" />
-    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\2D\ShapeEditor\Selection\ISelector.cs" />
-    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\2D\ShapeEditor\Selection\RectSelector.cs" />
-    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\Camera\UniversalRenderPipelineSerializedCamera.cs" />
-    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\ShaderGraph\UniversalStructs.cs" />
     <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\2D\ShapeEditor\Selection\SerializableSelection.cs" />
     <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\2D\ShapeEditor\GUIFramework\GUIState.cs" />
-    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\Converter\BuiltInToURPConverterContainer.cs" />
     <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\2D\ShapeEditor\EditorTool\ScriptableData.cs" />
-    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\2D\ShapeEditor\View\IEditablePathView.cs" />
-    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\2D\Renderer2DMenus.cs" />
-    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\Overrides\FilmGrainEditor.cs" />
     <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\ShaderGraph\UniversalStructFields.cs" />
-    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\ScriptableRendererDataEditor.cs" />
     <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\Converter\RunItemContext.cs" />
-    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\ShaderGUI\ShadingModels\BakedLitGUI.cs" />
-    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\2D\Renderer2DDataEditor.cs" />
     <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\Converter\RenderPipelineConverter.cs" />
     <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\LightExplorer.cs" />
-    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\AnimationClipUpgrader.cs" />
-    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\2D\ShaderGraph\Nodes\LightTextureNode.cs" />
     <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\AssemblyInfo.cs" />
-    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\DefaultScene\UniversalProjectSettings.cs" />
     <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\ShaderGUI\Shaders\ParticlesLitShader.cs" />
     <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\Converter\RenderPipelineConvertersEditor.cs" />
     <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\Camera\UniversalRenderPipelineCameraUI.PresetInspector.cs" />
-    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\2D\ShapeEditor\EditablePath\IUndoObject.cs" />
-    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\Converter\ConverterItemInfo.cs" />
-    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\Decal\ProjectedTransform.cs" />
-    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\AssetPostProcessors\ShaderGraphMaterialsUpdater.cs" />
-    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\2D\ShaderGraph\AssetCallbacks\CreateSpriteUnlitShaderGraph.cs" />
-    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\ShaderGUI\ParticleGUI.cs" />
-    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\ShaderGraph\UniversalBlockFields.cs" />
-    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\ShaderGraph\AssetCallbacks\CreateUnlitShaderGraph.cs" />
-    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\2D\ShapeEditor\GUIFramework\HoveredControlAction.cs" />
-    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\ShaderGUI\TerrainLitShaderGUI.cs" />
-    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\ShaderGraph\Targets\UniversalLitSubTarget.cs" />
     <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\2D\ShapeEditor\GUIFramework\SliderAction.cs" />
-    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\2D\ShapeEditor\GUIFramework\GUISystem.cs" />
-    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\ShaderGUI\ShaderGraphUnlitGUI.cs" />
     <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\UniversalAdditionalLightDataEditor.cs" />
-    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\ShaderGUI\ShaderGraphLitGUI.cs" />
-    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\ShaderGUI\Shaders\ParticlesUnlitShader.cs" />
-    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\GlobalSettings\UniversalGlobalSettingsWindow.Skin.cs" />
     <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\ShaderGUI\Shaders\SimpleLitShader.cs" />
-    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\Camera\UniversalRenderPipelineCameraUI.Rendering.Drawers.cs" />
-    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\2D\ShapeEditor\GUIFramework\GenericDefaultControl.cs" />
-    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\Deprecated.cs" />
     <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\2D\ShapeEditor\Selection\IndexedSelection.cs" />
-    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\2D\ShaderGraph\Targets\UniversalSpriteUnlitSubTarget.cs" />
-    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\2D\ShapeEditor\GUIFramework\CommandAction.cs" />
-    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\Lighting\UniversalRenderPipelineSerializedLight.cs" />
-    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\AssetPostProcessors\ModelPostProcessor.cs" />
-    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\Converter\ConverterItemDescriptor.cs" />
-    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\2D\CinemachineUniversalPixelPerfectEditor.cs" />
     <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\Overrides\ColorCurvesEditor.cs" />
-    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\Overrides\TonemappingEditor.cs" />
-    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\Converter\MaterialReferenceBuilder.cs" />
-    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\Decal\DecalProjectorEditor.cs" />
     <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\RendererDataPatcher.cs" />
     <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\Camera\UniversalRenderPipelineCameraUI.Environment.Drawers.cs" />
     <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\2D\ShapeEditor\EditablePath\ISnapping.cs" />
-    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\2D\ShaderGraph\Targets\UniversalSpriteCustomLitSubTarget.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\VFXGraph\VFXURPSubOutput.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\2D\FreeformPathPresets.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\VFXGraph\VFXAbstractParticleURPLitOutput.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\2D\ShadowCaster2DEditor.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\PostProcessDataEditor.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\Decal\DisplacableRectHandles.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\AssetPostProcessors\SketchupMaterialDescriptionPostprocessor.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\Camera\UniversalRenderPipelineCameraUI.Skin.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\UniversalRendererDataEditor.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\AssetVersion.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\TrackballUIDrawer.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\2D\ShapeEditor\EditablePath\Snapping.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\VFXGraph\VFXURPLitQuadStripOutput.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\GlobalSettings\UniversalGlobalSettingsEditor.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\ShaderUtils.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\2D\ShapeEditor\EditablePath\EditablePath.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\Overrides\MotionBlurEditor.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\2D\ShapeEditor\View\CreatePointAction.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\2D\ShapeEditor\EditablePath\IEditablePathController.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\AssetPostProcessors\PhysicalMaterial3DsMaxPreprocessor.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\ShaderGUI\ShadingModels\LitGUI.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\2D\ShapeEditor\Shapes\IShape.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\2D\ShapeEditor\EditablePath\MultipleEditablePathController.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\ShaderGraph\Targets\UniversalDecalSubTarget.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\Decal\CreateDecalProjector.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\SavedParameter.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\Overrides\BloomEditor.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\2D\Renderer2DAnalytics.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\2D\Light2DEditorUtility.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\Decal\DecalProjectorEditor.Skin.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\Camera\UniversalRenderPipelineCameraUI.Drawers.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\UpgradeCommon.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\Camera\UniversalRenderPipelineCameraUI.Output.Skin.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\2D\ShapeEditor\View\EditablePathView.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\Converter\ReadonlyMaterialConverter.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\2D\ShaderGraph\AssetCallbacks\CreateSpriteCustomLitShaderGraph.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\RendererFeatures\RenderObjectsPassFeatureEditor.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\Camera\UniversalRenderPipelineSerializedCamera.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\ShaderGraph\UniversalStructs.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\ScriptableRendererDataEditor.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\ShaderGUI\ShadingModels\BakedLitGUI.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\Converter\ConverterItemInfo.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\ShaderGUI\TerrainLitShaderGUI.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\2D\ShapeEditor\GUIFramework\HoveredControlAction.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\ShaderGraph\Targets\UniversalLitSubTarget.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\2D\ShapeEditor\GUIFramework\GUISystem.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\ShaderGUI\ShaderGraphUnlitGUI.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\Camera\UniversalRenderPipelineCameraUI.Rendering.Drawers.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\2D\ShapeEditor\GUIFramework\CommandAction.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\Converter\ConverterItemDescriptor.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\2D\CinemachineUniversalPixelPerfectEditor.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\Converter\MaterialReferenceBuilder.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\Decal\DecalProjectorEditor.cs" />
     <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\2D\Converter\BuiltInToURP2DMaterialUpgrader.cs" />
-    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\ShaderGUI\Shaders\LitShader.cs" />
     <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\ShaderGUI\ShadingModels\LitDetailGUI.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\UniversalRenderPipelineAsset\UniversalRenderPipelineAssetUI.Drawers.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\2D\ShapeEditor\Shapes\Polygon.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\RendererFeatures\ScreenSpaceAmbientOcclusionEditor.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\2D\ShapeEditor\GUIFramework\Control.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\VFXGraph\VFXURPLitPlanarPrimitiveOutput.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\ShaderGraph\Targets\UniversalUnlitSubTarget.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\ShaderGUI\Shaders\UnlitShader.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\GlobalSettings\UniversalGlobalSettingsCreator.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\2D\Converter\UpgradeURP2DAssetsContainer.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\Converter\AnimationClipConverter.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\UniversalAdditionalCameraDataEditor.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\GlobalSettings\SerializedUniversalRenderPipelineGlobalSettings.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\2D\ShapeEditor\EditablePath\EditablePathUtility.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\ShaderGUI\Shaders\BakedLitShader.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\Overrides\ChannelMixerEditor.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\2D\PixelPerfectCameraEditor.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\2D\ShapeEditor\EditorTool\GenericScriptablePathInspector.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\2D\ShapeEditor\GUIFramework\DefaultControl.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\2D\ShapeEditor\Selection\ISelectable.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\2D\ShadowCaster2DShapeTool.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\ShaderGUI\ShadingModels\SimpleLitGUI.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\UniversalRenderPipelineAssetEditor.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\Overrides\ShadowsMidtonesHighlightsEditor.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\2D\ShapeEditor\Shapes\Spline.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\2D\ShaderGraph\AssetCallbacks\CreateSpriteLitShaderGraph.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\UniversalRenderPipelineMaterialUpgrader.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\2D\SortingLayerDropDown.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\2D\ShapeEditor\EditorTool\GenericScriptablePath.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\ScriptableRendererFeatureEditor.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\ShaderGraph\AssetCallbacks\CreateLitShaderGraph.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\UpgradeUtility.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\2D\ShapeEditor\EditorTool\ScriptablePathInspector.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\2D\ShapeEditor\EditablePath\BezierUtility.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\Decal\CreateDecalShaderGraph.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\ShaderPreprocessor.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\2D\ShapeEditor\GUIFramework\GenericControl.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\Lighting\UniversalRenderPipelineLightUI.PresetInspector.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\2D\ShapeEditor\Selection\ISelector.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\Converter\BuiltInToURPConverterContainer.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\2D\ShapeEditor\View\IEditablePathView.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\AnimationClipUpgrader.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\2D\ShaderGraph\Nodes\LightTextureNode.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\DefaultScene\UniversalProjectSettings.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\Decal\ProjectedTransform.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\ShaderGUI\ParticleGUI.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\ShaderGraph\UniversalBlockFields.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\ShaderGraph\AssetCallbacks\CreateUnlitShaderGraph.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\ShaderGUI\ShaderGraphLitGUI.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\ShaderGUI\Shaders\ParticlesUnlitShader.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\GlobalSettings\UniversalGlobalSettingsWindow.Skin.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\2D\ShapeEditor\GUIFramework\GenericDefaultControl.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\Deprecated.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\2D\ShaderGraph\Targets\UniversalSpriteUnlitSubTarget.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\AssetPostProcessors\ModelPostProcessor.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\Overrides\TonemappingEditor.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\ShaderGUI\Shaders\LitShader.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\AnimationClipUpgrader_Types.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\ShaderGraph\UniversalFields.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\VFXGraph\VFXShaderGraphGUI.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\Overrides\LiftGammaGainEditor.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\ShaderGraph\Targets\UniversalTarget.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\Lighting\UniversalRenderPipelineLightUI.Drawers.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\RendererFeatures\DecalRendererFeatureEditor.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\AssetPostProcessors\ThreeDSMaterialDescriptionPostprocessor.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\2D\ShaderGraph\Targets\UniversalSpriteLitSubTarget.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\2D\ShapeEditor\Selection\PointRectSelector.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\AssetPostProcessors\MaterialPostprocessor.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\UniversalRenderPipelineAsset\SerializedUniversalRenderPipelineAsset.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\Decal\DecalShaderGraphGUI.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\2D\ShapeEditor\GUIFramework\ClickAction.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\2D\ShapeEditor\GUIFramework\LayoutData.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\2D\Light2DEditor.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\2D\ShapeEditor\EditorTool\ScriptablePath.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\UniversalAnalytics.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\ShaderGraph\Includes\DecalMeshBiasTypeEnum.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\ShaderGraph\UniversalMetadata.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\2D\Converter\ParametricToFreeformLightUpgrader.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\Converter\RenderPipelineConverterContainer.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\ShaderGraph\UniversalProperties.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\2D\ShapeEditor\EditablePath\ControlPoint.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\Camera\UniversalRenderPipelineCameraUI.PhysicalCamera.Drawers.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\2D\ShapeEditor\GUIFramework\IGUIState.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\2D\ShapeEditor\Selection\RectSelector.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\2D\Renderer2DMenus.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\Overrides\FilmGrainEditor.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\2D\Renderer2DDataEditor.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\2D\ShapeEditor\EditablePath\IUndoObject.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\AssetPostProcessors\ShaderGraphMaterialsUpdater.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\2D\ShaderGraph\AssetCallbacks\CreateSpriteUnlitShaderGraph.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\Lighting\UniversalRenderPipelineSerializedLight.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\2D\ShaderGraph\Targets\UniversalSpriteCustomLitSubTarget.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Library\PackageCache\com.unity.render-pipelines.universal@12.1.6\Editor\ShaderGraph\Includes\Varyings.hlsl" />
@@ -599,20 +599,14 @@
     <Reference Include="unityplastic">
       <HintPath>Library\PackageCache\com.unity.collab-proxy@1.15.13\Lib\Editor\PlasticSCM\unityplastic.dll</HintPath>
     </Reference>
-    <Reference Include="Unity.VisualScripting.IonicZip">
-      <HintPath>Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll</HintPath>
-    </Reference>
-    <Reference Include="log4netPlastic">
-      <HintPath>Library\PackageCache\com.unity.collab-proxy@1.15.13\Lib\Editor\PlasticSCM\log4netPlastic.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.VisualScripting.Antlr3.Runtime">
-      <HintPath>Library\PackageCache\com.unity.visualscripting@1.7.6\Runtime\VisualScripting.Flow\Dependencies\NCalc\Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
-    </Reference>
     <Reference Include="Unity.Burst.Unsafe">
       <HintPath>Library\PackageCache\com.unity.burst@1.6.4\Unity.Burst.Unsafe.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Burst.Cecil.Mdb">
       <HintPath>Library\PackageCache\com.unity.burst@1.6.4\Unity.Burst.CodeGen\Unity.Burst.Cecil.Mdb.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.VisualScripting.IonicZip">
+      <HintPath>Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Burst.Cecil.Pdb">
       <HintPath>Library\PackageCache\com.unity.burst@1.6.4\Unity.Burst.CodeGen\Unity.Burst.Cecil.Pdb.dll</HintPath>
@@ -620,8 +614,14 @@
     <Reference Include="Unity.Burst.Cecil">
       <HintPath>Library\PackageCache\com.unity.burst@1.6.4\Unity.Burst.CodeGen\Unity.Burst.Cecil.dll</HintPath>
     </Reference>
+    <Reference Include="log4netPlastic">
+      <HintPath>Library\PackageCache\com.unity.collab-proxy@1.15.13\Lib\Editor\PlasticSCM\log4netPlastic.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.Burst.Cecil.Rocks">
       <HintPath>Library\PackageCache\com.unity.burst@1.6.4\Unity.Burst.CodeGen\Unity.Burst.Cecil.Rocks.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.VisualScripting.Antlr3.Runtime">
+      <HintPath>Library\PackageCache\com.unity.visualscripting@1.7.6\Runtime\VisualScripting.Flow\Dependencies\NCalc\Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="nunit.framework">
       <HintPath>Library\PackageCache\com.unity.ext.nunit@1.0.6\net35\unity-custom\nunit.framework.dll</HintPath>
@@ -1247,27 +1247,27 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Unity.RenderPipelines.Universal.Runtime.csproj">
-      <Project>{90E2E50E-5A55-C957-AB61-79155B122DD6}</Project>
+      <Project>{6D1A2925-E3C2-5FDB-E8CD-071048FD3B2F}</Project>
       <Name>Unity.RenderPipelines.Universal.Runtime</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.RenderPipelines.Core.Runtime.csproj">
-      <Project>{373CF210-D523-3A98-8B7A-DC36A751F899}</Project>
+      <Project>{F08E841B-1963-C616-D21A-F23AB79308AC}</Project>
       <Name>Unity.RenderPipelines.Core.Runtime</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.RenderPipelines.Core.Editor.csproj">
-      <Project>{D8097CF6-8E50-BD01-9F1E-B1251D383E52}</Project>
+      <Project>{9F72EFDB-B539-CEA1-86B2-E3E4793037F0}</Project>
       <Name>Unity.RenderPipelines.Core.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.ShaderGraph.Editor.csproj">
-      <Project>{21E056BE-EA50-C726-9C1F-177B6A76580A}</Project>
+      <Project>{27C10C4C-15D4-6B36-C423-F0D501E6ECA3}</Project>
       <Name>Unity.ShaderGraph.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEditor.UI.csproj">
-      <Project>{8945B2A0-8D65-D75A-650E-97B09BD694C0}</Project>
+      <Project>{677DA31F-A556-2E91-DCB7-9809C07BB1E4}</Project>
       <Name>UnityEditor.UI</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEngine.UI.csproj">
-      <Project>{4E0B136D-1B6E-1576-DD86-7637CB47D340}</Project>
+      <Project>{7EF47BC5-DAE7-4133-6D7E-8FBB1EA9EA74}</Project>
       <Name>UnityEngine.UI</Name>
     </ProjectReference>
   </ItemGroup>
