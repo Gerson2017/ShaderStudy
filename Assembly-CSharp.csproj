@@ -60,7 +60,6 @@
     <Compile Include="Assets\TutorialInfo\Scripts\Readme.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Assets\HLSL\MainLight.hlsl" />
     <None Include="Assets\ShaderGraph-Custom-Lighting-master\Example\Sub Graphs\SubGraph_ReadMe.txt" />
     <None Include="Assets\ShaderGraph-Custom-Lighting-master\Example\Shader Graphs\ShaderGraph_ReadMe.txt" />
     <None Include="Assets\ShaderGraph-Custom-Lighting-master\Includes\CustomLighting.hlsl" />
